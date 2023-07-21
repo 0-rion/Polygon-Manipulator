@@ -20,4 +20,4 @@ Polygon Manipulator is a software that allow user to interact with polygon shape
    - Determine if a point is inside or outside polygon
 
 ## Detailed Guide
-[Guide](Project Guide.pdf)
+[Guide](Guide.pdf)
